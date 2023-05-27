@@ -14,4 +14,4 @@ python parser.py --file <path-to>/argument_specs.yml --output-dir <output-dir>
 
 ## Contributors
 
-Nick Thompson <https://github.com/nsthompson>
+Nick Thompson <<https://github.com/nsthompson>>
